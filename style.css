@@ -1,0 +1,13 @@
+body {
+  background-color: blanchedalmond;
+}
+h1 {
+  text-align: center;
+  font-size: large;
+  color: crimson;
+  font-family: "Courier New", Courier, monospace;
+}
+p {
+  color: darkblue;
+  text-align: justify;
+}
